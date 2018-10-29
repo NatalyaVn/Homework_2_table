@@ -1,0 +1,32 @@
+table{
+  border: 3px solid black;
+}
+td, th{
+  border: 3px solid black;
+  text-align: center;
+  vertical-align: top;
+  padding: 5px;
+  width: 100px;
+  height: 50px;
+}
+.cell_black{
+  background-color: black;
+}
+.cell_yellow{
+  background-color: yellow;
+}
+.cell_pink{
+  background-color: pink;
+}
+.cell_red{
+  background-color: red;
+}
+.cell_blue{
+  background-color: blue;
+}
+.cell_green{
+  background-color: green
+}
+.cell_grey{
+  background-color: grey
+}
